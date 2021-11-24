@@ -1,5 +1,10 @@
 const canvas = document.getElementById('canvas')
 const ctx = canvas.getContext('2d')
+const increaseBtn = document.getElementById('increase')
+const decreaseBtn = document.getElementById('decrease')
+const sizeEl = document.getElementById('size')
+const colorEl = document.getElementById('color')
+const clearBtn = document.getElementById('clear')
 
 let size = 20
 let isPressed = false
@@ -31,7 +36,6 @@ canvas.addEventListener('mousemove', (e) => {
     }
 })
 
-
 function drawCircle(x, y) {
     ctx.beginPath()
     ctx.arc(x, y, size, 0, Math.PI * 2)
@@ -47,3 +51,21 @@ function drawLine(x1, y1, x2, y2) {
     ctx.lineWidth = size * 2
     ctx.stroke()
 }
+
+increaseBtn.addEventListener('click', () => {
+    if (size < 50) {
+        size += 5
+        sizeEl.innerHTML = size
+    }
+})
+
+decreaseBtn.addEventListener('click', () => {
+    if (size > 5) {
+        size -= 5
+        sizeEl.innerHTML = size
+    }
+})
+
+colorEl.addEventListener('change', () => color = colorEl.value)
+
+clearBtn.addEventListener('click', () => ctx.clearRect(0, 0, canvas.width, canvas.height))

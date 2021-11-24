@@ -66,4 +66,7 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/21 Drag N Drop/" alt="21 Drag N Drop" >21 Drag N Drop</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/22 Drawing App/" alt="22 Drawing App" >22 Drawing App</a>
+  </li>
 </ul>
