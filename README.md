@@ -69,4 +69,13 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/22 Drawing App/" alt="22 Drawing App" >22 Drawing App</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/23 Kinetic CSS Loader/" alt="23 Kinetic CSS Loader" >23 Kinetic CSS Loader</a>
+  </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/24 Content Placeholder/" alt="24 Content Placeholder" >24 Content Placeholder</a>
+  </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/25 Sticky Navbar/" alt="25 Sticky Navbar" >25 Sticky Navbar</a>
+  </li>
 </ul>
