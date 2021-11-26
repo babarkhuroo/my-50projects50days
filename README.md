@@ -78,4 +78,7 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/25 Sticky Navbar/" alt="25 Sticky Navbar" >25 Sticky Navbar</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/26 Double Vertical Slider/" alt="26 Double Vertical Slider" >26 Double Vertical Slider</a>
+  </li>
 </ul>
