@@ -81,4 +81,7 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/26 Double Vertical Slider/" alt="26 Double Vertical Slider" >26 Double Vertical Slider</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/27 Toast Notification/" alt="27 Toast Notification" >27 Toast Notification</a>
+  </li>
 </ul>
