@@ -84,4 +84,7 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/27 Toast Notification/" alt="27 Toast Notification" >27 Toast Notification</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/28 Github Profiles/" alt="28 Github Profiles" >28 Github Profiles</a>
+  </li>
 </ul>
