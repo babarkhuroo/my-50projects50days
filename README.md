@@ -87,4 +87,7 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/28 Github Profiles/" alt="28 Github Profiles" >28 Github Profiles</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/29 Double Heart Click/" alt="29 Double Heart Click" >29 Double Heart Click</a>
+  </li>
 </ul>
