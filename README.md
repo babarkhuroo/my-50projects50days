@@ -93,4 +93,7 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/30 Auto Text Effect/" alt="30 Auto Text Effect" >30 Auto Text Effect</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/31 Password Generator/" alt="31 Password Generator" >31 Password Generator</a>
+  </li>
 </ul>
