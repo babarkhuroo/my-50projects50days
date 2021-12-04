@@ -99,4 +99,7 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/32 Good Cheap Fast Checkboxes/" alt="32 Good Cheap Fast Checkboxes" >32 Good Cheap Fast Checkboxes</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/33 Notes App/" alt="33 Notes App" >33 Notes App</a>
+  </li>
 </ul>
