@@ -102,4 +102,7 @@ some exercises i did to practice html, css &amp; js
   <li>
     <a href="https://babarkhuroo.github.io/my-50projects50days/33 Notes App/" alt="33 Notes App" >33 Notes App</a>
   </li>
+  <li>
+    <a href="https://babarkhuroo.github.io/my-50projects50days/34 Animated Countdown/" alt="34 Animated Countdown" >34 Animated Countdown</a>
+  </li>
 </ul>
