@@ -2,107 +2,37 @@
 
 some exercises i did to practice html, css &amp; js
 
-<ul>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/01 Expanding Cards/" alt="01 Expanding Cards" >01 Expanding Cards</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/02 Progress Steps/" alt="02 Progress Steps" >02 Progress Steps</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/03 Rotating Navigation/" alt="03 Rotating Navigation" >03 Rotating Navigation</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/04 Hidden Search Widget/" alt="04 Hidden Search Widget" >04 Hidden Search Widget</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/05 Blurry Loading/" alt="05 Blurry Loading" >05 Blurry Loading</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/06 Scroll Animation/" alt="06 Scroll Animation" >06 Scroll Animation</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/07 Split Landing Page/" alt="07 Split Landing Page" >07 Split Landing Page</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/08 Form Wave Animation/" alt="08 Form Wave Animation" >08 Form Wave Animation</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/09 Sound Board/" alt="09 Sound Board" >09 Sound Board</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/10 Dad Jokes/" alt="10 Dad Jokes" >10 Dad Jokes</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/11 Event KeyCodes/" alt="11 Event KeyCodes" >11 Event KeyCodes</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/12 FAQ Collapse/" alt="12 FAQ Collapse" >12 FAQ Collapse</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/13 Random Choice Picker/" alt="13 Random Choice Picker" >13 Random Choice Picker</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/14 Animated Navigation/" alt="14 Animated Navigation" >14 Animated Navigation</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/15 Incrementing Counter/" alt="15 Incrementing Counter" >15 Incrementing Counter</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/16 Drink Water/" alt="16 Drink Water" >16 Drink Water</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/17 Movie App/" alt="17 Movie App" >17 Movie App</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/18 Background Slider/" alt="18 Background Slider" >18 Background Slider</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/19 Theme Clock/" alt="19 Theme Clock" >19 Theme Clock</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/20 Button Ripple Effect/" alt="20 Button Ripple Effect" >20 Button Ripple Effect</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/21 Drag N Drop/" alt="21 Drag N Drop" >21 Drag N Drop</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/22 Drawing App/" alt="22 Drawing App" >22 Drawing App</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/23 Kinetic CSS Loader/" alt="23 Kinetic CSS Loader" >23 Kinetic CSS Loader</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/24 Content Placeholder/" alt="24 Content Placeholder" >24 Content Placeholder</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/25 Sticky Navbar/" alt="25 Sticky Navbar" >25 Sticky Navbar</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/26 Double Vertical Slider/" alt="26 Double Vertical Slider" >26 Double Vertical Slider</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/27 Toast Notification/" alt="27 Toast Notification" >27 Toast Notification</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/28 Github Profiles/" alt="28 Github Profiles" >28 Github Profiles</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/29 Double Heart Click/" alt="29 Double Heart Click" >29 Double Heart Click</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/30 Auto Text Effect/" alt="30 Auto Text Effect" >30 Auto Text Effect</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/31 Password Generator/" alt="31 Password Generator" >31 Password Generator</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/32 Good Cheap Fast Checkboxes/" alt="32 Good Cheap Fast Checkboxes" >32 Good Cheap Fast Checkboxes</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/33 Notes App/" alt="33 Notes App" >33 Notes App</a>
-  </li>
-  <li>
-    <a href="https://babarkhuroo.github.io/my-50projects50days/34 Animated Countdown/" alt="34 Animated Countdown" >34 Animated Countdown</a>
-  </li>
-</ul>
+- [01 Expanding Cards](https://babarkhuroo.github.io/my-50projects50days/01%20Expanding%20Cards/)
+- [02 Progress Steps](https://babarkhuroo.github.io/my-50projects50days/02%20Progress%20Steps/)
+- [03 Rotating Navigation](https://babarkhuroo.github.io/my-50projects50days/03%20Rotating%20Navigation/)
+- [04 Hidden Search Widget](https://babarkhuroo.github.io/my-50projects50days/04%20Hidden%20Search%20Widget/)
+- [05 Blurry Loading](https://babarkhuroo.github.io/my-50projects50days/05%20Blurry%20Loading/)
+- [06 Scroll Animation](https://babarkhuroo.github.io/my-50projects50days/06%20Scroll%20Animation/)
+- [07 Split Landing Page](https://babarkhuroo.github.io/my-50projects50days/07%20Split%20Landing%20Page/)
+- [08 Form Wave Animation](https://babarkhuroo.github.io/my-50projects50days/08%20Form%20Wave%20Animation/)
+- [09 Sound Board](https://babarkhuroo.github.io/my-50projects50days/09%20Sound%20Board/)
+- [10 Dad Jokes](https://babarkhuroo.github.io/my-50projects50days/10%20Dad%20Jokes/)
+- [11 Event KeyCodes](https://babarkhuroo.github.io/my-50projects50days/11%20Event%20KeyCodes/)
+- [12 FAQ Collapse](https://babarkhuroo.github.io/my-50projects50days/12%20FAQ%20Collapse/)
+- [13 Random Choice Picker](https://babarkhuroo.github.io/my-50projects50days/13%20Random%20Choice%20Picker/)
+- [14 Animated Navigation](https://babarkhuroo.github.io/my-50projects50days/14%20Animated%20Navigation/)
+- [15 Incrementing Counter](https://babarkhuroo.github.io/my-50projects50days/15%20Incrementing%20Counter/)
+- [16 Drink Water](https://babarkhuroo.github.io/my-50projects50days/16%20Drink%20Water/)
+- [17 Movie App](https://babarkhuroo.github.io/my-50projects50days/17%20Movie%20App/)
+- [18 Background Slider](https://babarkhuroo.github.io/my-50projects50days/18%20Background%20Slider/)
+- [19 Theme Clock](https://babarkhuroo.github.io/my-50projects50days/19%20Theme%20Clock/)
+- [20 Button Ripple Effect](https://babarkhuroo.github.io/my-50projects50days/20%20Button%20Ripple%20Effect/)
+- [21 Drag N Drop](https://babarkhuroo.github.io/my-50projects50days/21%20Drag%20N%20Drop/)
+- [22 Drawing App](https://babarkhuroo.github.io/my-50projects50days/22%20Drawing%20App/)
+- [23 Kinetic CSS Loader](https://babarkhuroo.github.io/my-50projects50days/23%20Kinetic%20CSS%20Loader/)
+- [24 Content Placeholder](https://babarkhuroo.github.io/my-50projects50days/24%20Content%20Placeholder/)
+- [25 Sticky Navbar](https://babarkhuroo.github.io/my-50projects50days/25%20Sticky%20Navbar/)
+- [26 Double Vertical Slider](https://babarkhuroo.github.io/my-50projects50days/26%20Double%20Vertical%20Slider/)
+- [27 Toast Notification](https://babarkhuroo.github.io/my-50projects50days/27%20Toast%20Notification/)
+- [28 Github Profiles](https://babarkhuroo.github.io/my-50projects50days/28%20Github%20Profiles/)
+- [29 Double Heart Click](https://babarkhuroo.github.io/my-50projects50days/29%20Double%20Heart%20Click/)
+- [30 Auto Text Effect](https://babarkhuroo.github.io/my-50projects50days/30%20Auto%20Text%20Effect/)
+- [31 Password Generator](https://babarkhuroo.github.io/my-50projects50days/31%20Password%20Generator/)
+- [32 Good Cheap Fast Checkboxes](https://babarkhuroo.github.io/my-50projects50days/32%20Good%20Cheap%20Fast%20Checkboxes/)
+- [33 Notes App](https://babarkhuroo.github.io/my-50projects50days/33%20Notes%20App/)
+- [34 Animated Countdown](https://babarkhuroo.github.io/my-50projects50days/34%20Animated%20Countdown/)
