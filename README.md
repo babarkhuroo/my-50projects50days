@@ -37,3 +37,4 @@ some exercises i did to practice html, css &amp; js
 - [33 Notes App](https://babarkhuroo.github.io/my-50projects50days/33%20Notes%20App/)
 - [34 Animated Countdown](https://babarkhuroo.github.io/my-50projects50days/34%20Animated%20Countdown/)
 - [35 Image Carousel](https://babarkhuroo.github.io/my-50projects50days/35%20Image%20Carousel/)
+- [36 Hoverboard](https://babarkhuroo.github.io/my-50projects50days/36%20Hoverboard/)
