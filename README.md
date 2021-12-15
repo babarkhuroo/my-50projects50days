@@ -38,3 +38,4 @@ some exercises i did to practice html, css &amp; js
 - [34 Animated Countdown](https://babarkhuroo.github.io/my-50projects50days/34%20Animated%20Countdown/)
 - [35 Image Carousel](https://babarkhuroo.github.io/my-50projects50days/35%20Image%20Carousel/)
 - [36 Hoverboard](https://babarkhuroo.github.io/my-50projects50days/36%20Hoverboard/)
+- [37 Pokedex](https://babarkhuroo.github.io/my-50projects50days/37%20Pokedex/)
