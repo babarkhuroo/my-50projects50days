@@ -39,3 +39,4 @@ some exercises i did to practice html, css &amp; js
 - [35 Image Carousel](https://babarkhuroo.github.io/my-50projects50days/35%20Image%20Carousel/)
 - [36 Hoverboard](https://babarkhuroo.github.io/my-50projects50days/36%20Hoverboard/)
 - [37 Pokedex](https://babarkhuroo.github.io/my-50projects50days/37%20Pokedex/)
+- [38 Mobile Tab Navigation](https://babarkhuroo.github.io/my-50projects50days/38%20Mobile%20Tab%20Navigation/)
