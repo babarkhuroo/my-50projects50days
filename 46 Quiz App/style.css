@@ -64,7 +64,7 @@ button:hover {
   background-color: #732d91;
 }
 
-button:focus {
+button:active {
   outline: none;
   background-color: #5e3370;
 }
