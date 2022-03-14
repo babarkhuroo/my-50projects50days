@@ -51,3 +51,4 @@ some exercises i did to practice html, css &amp; js
 - [47 Testimonial Box Switcher](https://babarkhuroo.github.io/my-50projects50days/47%20Testimonial%20Box%20Switcher/)
 - [48 Random Image Feed](https://babarkhuroo.github.io/my-50projects50days/48%20Random%20Image%20Feed/)
 - [49 Todo List](https://babarkhuroo.github.io/my-50projects50days/49%20Todo%20List/)
+- [50 Insect Catch Game](https://babarkhuroo.github.io/my-50projects50days/50%20Insect%20Catch%20Game/)
